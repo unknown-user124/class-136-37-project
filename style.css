@@ -1,0 +1,29 @@
+#h1headingtag {
+    width:100%;
+    font-size:28px;
+}
+
+#start {
+    font-size: 18px;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color: black;
+    bottom: 0;
+    background-color: white;
+    width:100%;
+    text-align: center;
+    line-height: 3;
+}
+
+body {
+    background-size: cover;
+}
+
+canvas {
+    border:2px solid white;
+    border-radius: 10px;
+    
+    box-shadow: 5px 5px 5px white;
+}
